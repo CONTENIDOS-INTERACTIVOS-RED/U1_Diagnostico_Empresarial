@@ -22,12 +22,10 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
+              p.descripcion.mb-4 Desde la transformación tecnológica hasta los cambios en los modelos organizacionales, las empresas enfrentan desafíos constantes que requieren decisiones estratégicas fundamentadas. En este contexto, el diagnóstico empresarial surge como una herramienta clave para analizar la situación interna y externa de una organización. Esta primera unidad proporciona las bases teóricas y metodológicas necesarias para comprender el diagnóstico como un proceso integral, que permite identificar fortalezas, debilidades, oportunidades y amenazas, con el fin de fortalecer la competitividad y asegurar la sostenibilidad empresarial.
 
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
+              h5 ¡Prepárese para convertir los datos en decisiones que impulsen el éxito organizacional!
               
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
-
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
                   .iniciar-btn-container.w-100.w-md-auto

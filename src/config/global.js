@@ -1,7 +1,7 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    numeroUnidad: '1',
+    tituloUnidad: 'Fundamentos del diagnóstico empresarial',
   },
   menuPrincipal: {
     menu: [
@@ -15,20 +15,14 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'Definición y objetivo del diagnóstico empresarial',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Objetivos del diagnóstico empresarial',
             hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_1_2',
           },
         ],
       },
@@ -36,49 +30,36 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo: 'Metodologías de diagnóstico',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Título tema',
+        titulo: 'Herramientas para el diagnóstico empresarial',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Herramientas propias para el análisis interno',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Subtítulo tema',
+            titulo: 'Herramientas propias para el análisis externo',
             hash: 't_3_2',
           },
         ],
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Importancia de la información en el diagnóstico',
+        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'sintesis',
@@ -118,26 +99,92 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Prieto Herrera, J. E. (2011). Gestión estratégica organizacional: guía práctica para el diagnóstico empresarial (3a ed.). Ecoe Ediciones. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/69160?page=36',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Ramírez, M. & Tejada Betancourt, L. (Il.). (2020). Gerencia estratégica. Universidad Abierta para Adultos (UAPA). ',
+      link:
+        'https://elibro.net/es/ereader/tecnologicadeloriente/175881?page=7 ',
+    },
+    {
+      referencia:
+        'Luna González, A. C. (2015). Administración estratégica. Grupo Editorial Patria. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39421?page=6',
+    },
+    {
+      referencia:
+        'Torres Hernández, Z. (2015). Administración estratégica. Grupo Editorial Patria. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39403?page=4 ',
+    },
+    {
+      referencia:
+        'Ramírez, M. & Tejada Betancourt, L. (Il.). (2020). Gerencia estratégica. Universidad Abierta para Adultos (UAPA). ',
+      link:
+        'https://elibro.net/es/ereader/tecnologicadeloriente/175881?page=7 ',
+    },
+    {
+      referencia:
+        'Torres Hernández, Z. (2015). Administración estratégica. Grupo Editorial Patria. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39403?page=4 ',
+    },
+    {
+      referencia:
+        'Luna González, A. C. (2015). Administración estratégica. Grupo Editorial Patria. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39421?page=6 ',
     },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Análisis PESTEL',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'Herramienta que evalúa los factores políticos, económicos, sociales, tecnológicos, ecológicos y legales, que influyen en el entorno de la empresa, ayudando a identificar oportunidades y amenazas externas.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: '<i>Balanced Scorecard</i> (BSC)',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'Método de gestión que mide el desempeño de una empresa a través de cuatro perspectivas: financiera, clientes, procesos internos y aprendizaje y crecimiento, permitiendo alinear la estrategia con los resultados.',
+    },
+    {
+      termino: '<i>Benchmarking</i>',
+      significado:
+        'Proceso de comparación del desempeño de una empresa con el de sus competidores o líderes de la industria, con el fin de identificar y adaptar buenas prácticas para mejorar el rendimiento.',
+    },
+    {
+      termino: 'Curaduría de información',
+      significado:
+        'Proceso de selección, organización y filtrado de los datos recopilados durante el diagnóstico, con el propósito de quedarse solo con la información más relevante y útil para el análisis.',
+    },
+    {
+      termino: 'Diagnóstico empresarial',
+      significado:
+        'Proceso estructurado que permite evaluar la situación actual de una empresa, identificando sus fortalezas, debilidades, oportunidades y amenazas, para facilitar la toma de decisiones estratégicas.',
+    },
+    {
+      termino: 'Matriz BCG',
+      significado:
+        'Herramienta que clasifica los productos o unidades de negocio de una empresa, según su crecimiento y participación en el mercado, dividiéndolos en “Estrellas, Vacas lecheras, Interrogantes y Perros”.',
+    },
+    {
+      termino: 'Matriz DOFA',
+      significado:
+        'Análisis que identifica las Debilidades, Oportunidades, Fortalezas y Amenazas de una empresa, facilitando el diseño de estrategias que aprovechen los puntos fuertes y minimicen los riesgos.',
+    },
+    {
+      termino: 'Matriz EFI',
+      significado:
+        'Herramienta que evalúa los factores internos de la empresa (fortalezas y debilidades), asignando pesos y calificaciones, para medir la situación interna de la organización.',
+    },
+    {
+      termino: 'Matriz EFE',
+      significado:
+        'Instrumento que evalúa los factores externos, midiendo la respuesta de la empresa frente a las oportunidades y amenazas presentes en su entorno. ',
+    },
+    {
+      termino: 'Fuerzas de Porter',
+      significado:
+        'Modelo que analiza la competencia de una industria a través de cinco factores: “Rivalidad entre competidores, Poder de los proveedores, Poder de los clientes, Amenaza de nuevos entrantes y Amenaza de productos sustitutos”, permitiendo entender la dinámica competitiva del sector.',
     },
   ],
 }
