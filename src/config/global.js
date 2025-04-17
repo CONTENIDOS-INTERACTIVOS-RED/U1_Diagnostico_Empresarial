@@ -99,39 +99,39 @@ export default {
   referencias: [
     {
       referencia:
-        'Prieto Herrera, J. E. (2011). Gestión estratégica organizacional: guía práctica para el diagnóstico empresarial (3a ed.). Ecoe Ediciones. ',
+        'Prieto Herrera, J. E. (2011). <i>Gestión estratégica organizacional: guía práctica para el diagnóstico empresarial</i> (3a ed.). Ecoe Ediciones. ',
       link: 'https://elibro.net/es/ereader/tecnologicadeloriente/69160?page=36',
     },
     {
       referencia:
-        'Ramírez, M. & Tejada Betancourt, L. (Il.). (2020). Gerencia estratégica. Universidad Abierta para Adultos (UAPA). ',
+        'Ramírez, M. & Tejada Betancourt, L. (Il.). (2020). <i>Gerencia estratégica</i>. Universidad Abierta para Adultos (UAPA). ',
       link:
         'https://elibro.net/es/ereader/tecnologicadeloriente/175881?page=7 ',
     },
     {
       referencia:
-        'Luna González, A. C. (2015). Administración estratégica. Grupo Editorial Patria. ',
+        'Luna González, A. C. (2015). <i>Administración estratégica</i>. Grupo Editorial Patria. ',
       link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39421?page=6',
     },
     {
       referencia:
-        'Torres Hernández, Z. (2015). Administración estratégica. Grupo Editorial Patria. ',
+        'Torres Hernández, Z. (2015). <i>Administración estratégica</i>. Grupo Editorial Patria. ',
       link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39403?page=4 ',
     },
     {
       referencia:
-        'Ramírez, M. & Tejada Betancourt, L. (Il.). (2020). Gerencia estratégica. Universidad Abierta para Adultos (UAPA). ',
+        'Ramírez, M. & Tejada Betancourt, L. (Il.). (2020). <i>Gerencia estratégica</i>. Universidad Abierta para Adultos (UAPA). ',
       link:
         'https://elibro.net/es/ereader/tecnologicadeloriente/175881?page=7 ',
     },
     {
       referencia:
-        'Torres Hernández, Z. (2015). Administración estratégica. Grupo Editorial Patria. ',
+        'Torres Hernández, Z. (2015). <i>Administración estratégica</i>. Grupo Editorial Patria. ',
       link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39403?page=4 ',
     },
     {
       referencia:
-        'Luna González, A. C. (2015). Administración estratégica. Grupo Editorial Patria. ',
+        'Luna González, A. C. (2015). <i>Administración estratégica</i>. Grupo Editorial Patria. ',
       link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39421?page=6 ',
     },
   ],
