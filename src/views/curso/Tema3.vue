@@ -99,7 +99,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Matriz EFI (Evaluación de Factores Internos)
             p.mb-4(data-aos="fade-right") En el PDF Matriz EFI, se explica cómo construir esta herramienta paso a paso, asignando pesos y calificaciones a los factores más relevantes. A través de este análisis, los líderes empresariales pueden tomar decisiones fundamentadas que fortalezcan la competitividad y mejoren el desempeño general de la empresa.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -231,7 +231,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") El Balanced Scorecard (BSC)
             p.mb-4(data-aos="fade-right") En el PDF El Balanced Scorecard, se presenta esta herramienta de gestión como un modelo integral que permite traducir la visión y estrategia de una empresa en objetivos claros y medibles, distribuidos en cuatro perspectivas claves. A través de un enfoque estructurado, se explica paso a paso, cómo construir e implementar el BSC, facilitando el seguimiento del desempeño y la toma de decisiones estratégicas, basadas en datos.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -293,7 +293,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Las cinco fuerzas de Porter
             p.mb-4(data-aos="fade-right") En el PDF Las cinco fuerzas de Porter, se presenta un modelo de análisis estratégico que permite evaluar la estructura de una industria mediante cinco fuerzas claves: la rivalidad entre competidores, la amenaza de nuevos entrantes, el poder de negociación de clientes y proveedores, y la amenaza de productos sustitutos. Este enfoque permite a las organizaciones identificar oportunidades, anticiparse a riesgos y tomar decisiones informadas, para fortalecer su posición en el mercado.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -425,7 +425,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Matriz EFE
             p.mb-4(data-aos="fade-right") En el PDF Matriz EFE, se estudia una herramienta que permite identificar, valorar y calificar las oportunidades y amenazas que afectan a una empresa, desde el exterior. A través de un proceso estructurado, esta matriz convierte información del entorno en datos cuantificables, facilitando la toma de decisiones y la formulación de estrategias más efectivas y proactivas.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_5.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -540,7 +540,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Matriz DOFA
             p.mb-4(data-aos="fade-right") En el PDF Matriz DOFA, se presenta una herramienta de análisis que permite identificar fortalezas, debilidades, oportunidades y amenazas, integrando la información obtenida a través de otros instrumentos diagnósticos como las matrices EFI y EFE. Este enfoque facilita la transformación del diagnóstico empresarial en acciones estratégicas concretas, orientadas a potenciar las capacidades de la organización, minimizar riesgos y aprovechar al máximo las condiciones del entorno.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_6.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

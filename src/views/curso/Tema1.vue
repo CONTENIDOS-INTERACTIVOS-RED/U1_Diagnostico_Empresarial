@@ -17,7 +17,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Definición del diagnóstico empresarial
             p.mb-4(data-aos="fade-right") En el PDF Definición del diagnóstico empresarial, se analiza este proceso como una herramienta integral que permite identificar fortalezas, debilidades, oportunidades y amenazas, a partir del estudio de factores internos y externos. A través de este enfoque, se establece una base sólida para diseñar planes de mejora continua, que impulsen la competitividad y preparen a la empresa para los desafíos del entorno actual.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
